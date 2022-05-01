@@ -1,0 +1,9 @@
+float32 Yaw
+float32 Target_yaw
+int16 Throttle
+int8 Valid_yaw
+float32 Depth
+float32 Target_depth
+int16 Move_speed
+int8 Cont_state
+int8 State_addit
